@@ -42,7 +42,7 @@ class SoftmaxRegression:
         return np.argmax(y_pred, axis=1)
     
     def _softmax(self, z):
-        # Calculating the softmax function for each row of the input z
+        # Calculating the softmax function for each row of the logit z
         z -= np.max(z, axis=1, keepdims=True)
         exp_z = np.exp(z)
         return exp_z / np.sum(exp_z, axis=1, keepdims=True)
