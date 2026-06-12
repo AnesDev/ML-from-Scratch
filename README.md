@@ -17,16 +17,15 @@ This repository contains educational implementations of fundamental machine lear
 ## 🎯 Purpose
 
 This project is designed to:
-- Deepen understanding of ML fundamentals
+- Deepen my understanding of ML fundamentals
 - Learn how algorithms work beyond using high-level libraries
-- Implement mathematical concepts in working code
-- Serve as a reference for algorithm implementation details
+- Implement mathematical concepts of ML algorithms
 
 ## 💻 Technology Stack
 
 - **Language**: Python 3.x
 - **Core Libraries**: NumPy, Pandas (for data manipulation)
-- **Visualization**: Matplotlib, Seaborn (optional)
+- **Visualization**: Matplotlib, Seaborn
 
 ## 🚀 Getting Started
 
